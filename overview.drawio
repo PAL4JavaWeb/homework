@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.7.6">
   <diagram name="第 1 页" id="evCJ3KeuCLlKJmsIkt1N">
-    <mxGraphModel dx="823" dy="524" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="788" dy="503" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1052,9 +1052,6 @@
         </mxCell>
         <mxCell id="UDsQUH8XfIcpN_Lb0I2t-298" value="&lt;i style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10px;&quot;&gt;你是一个资深的程序员..,&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#143642;" vertex="1" parent="UDsQUH8XfIcpN_Lb0I2t-296">
           <mxGeometry y="11.5" width="123.00000000000003" height="12.5" as="geometry" />
-        </mxCell>
-        <mxCell id="UDsQUH8XfIcpN_Lb0I2t-299" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.502;entryY=0.485;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="UDsQUH8XfIcpN_Lb0I2t-288" source="UDsQUH8XfIcpN_Lb0I2t-289" target="UDsQUH8XfIcpN_Lb0I2t-289">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
