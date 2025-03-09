@@ -1152,9 +1152,6 @@
         <mxCell id="H1vGg9BgWWuJPQq61x-J-8" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBoZWlnaHQ9IjY0IiB3aWR0aD0iNjQiIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgY2xhc3M9Imljb24iPjxwYXRoIGQ9Ik01MTIgOTM4LjY2NjY2N2EzMi4wMzIgMzIuMDMyIDAgMCAxLTE1LjY0OC00LjA4NTMzNGwtMzUyLTE5Ny4zMzMzMzNBMzIgMzIgMCAwIDEgMTI4IDcwOS4zMzMzMzN2LTM5NC42NjY2NjZhMzIgMzIgMCAwIDEgMTYuMzUyLTI3LjkxNDY2N2wzNTItMTk3LjMzMzMzM2EzMiAzMiAwIDAgMSAzMS4yOTYgMGwzNTIgMTk3LjMzMzMzM0EzMiAzMiAwIDAgMSA4OTYgMzE0LjY2NjY2N3YzOTQuNjY2NjY2YTMyIDMyIDAgMCAxLTE2LjM1MiAyNy45MTQ2NjdsLTM1MiAxOTcuMzMzMzMzQTMyIDMyIDAgMCAxIDUxMiA5MzguNjY2NjY3ek0xOTIgNjkwLjU4MTMzM0w1MTIgODY5Ljk3MzMzM2wzMjAtMTc5LjM5MlYzMzMuNDA4TDUxMiAxNTQuMDE2IDE5MiAzMzMuNDA4djM1Ny4xNzMzMzN6Ii8+PHBhdGggZD0iTTUxMiA2ODIuNjY2NjY3Yy05NC4xMDEzMzMgMC0xNzAuNjY2NjY3LTc2LjU2NTMzMy0xNzAuNjY2NjY3LTE3MC42NjY2NjdTNDE3Ljg5ODY2NyAzNDEuMzMzMzMzIDUxMiAzNDEuMzMzMzMzczE3MC42NjY2NjcgNzYuNTY1MzMzIDE3MC42NjY2NjcgMTcwLjY2NjY2Ny03Ni41NjUzMzMgMTcwLjY2NjY2Ny0xNzAuNjY2NjY3IDE3MC42NjY2Njd6IG0wLTI3Ny4zMzMzMzRjLTU4LjgxNiAwLTEwNi42NjY2NjcgNDcuODUwNjY3LTEwNi42NjY2NjcgMTA2LjY2NjY2N3M0Ny44NTA2NjcgMTA2LjY2NjY2NyAxMDYuNjY2NjY3IDEwNi42NjY2NjcgMTA2LjY2NjY2Ny00Ny44NTA2NjcgMTA2LjY2NjY2Ny0xMDYuNjY2NjY3UzU3MC44MTYgNDA1LjMzMzMzMyA1MTIgNDA1LjMzMzMzM3oiLz48L3N2Zz4=" parent="1" vertex="1">
           <mxGeometry x="2789" y="378.25" width="42" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="lVPyvDkXmiog65ShrG8c-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UDsQUH8XfIcpN_Lb0I2t-99" target="UDsQUH8XfIcpN_Lb0I2t-108">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
