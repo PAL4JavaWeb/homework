@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.0.16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="26.2.14">
   <diagram name="第 1 页" id="evCJ3KeuCLlKJmsIkt1N">
-    <mxGraphModel dx="652" dy="414" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="938" dy="606" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -818,7 +818,7 @@
         <mxCell id="UDsQUH8XfIcpN_Lb0I2t-227" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;程序分析&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;startSize=23;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1796" y="545" width="200" height="215" as="geometry" />
         </mxCell>
-        <mxCell id="UDsQUH8XfIcpN_Lb0I2t-228" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 10px;&quot;&gt;提取模块&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=#143642;" parent="UDsQUH8XfIcpN_Lb0I2t-227" vertex="1">
+        <mxCell id="UDsQUH8XfIcpN_Lb0I2t-228" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 10px;&quot;&gt;提取阶段&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=#143642;" parent="UDsQUH8XfIcpN_Lb0I2t-227" vertex="1">
           <mxGeometry x="39" y="17" width="110.98" height="27" as="geometry" />
         </mxCell>
         <mxCell id="UDsQUH8XfIcpN_Lb0I2t-229" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;提示词工程&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;startSize=23;aspect=fixed;rounded=0;shadow=0;" parent="1" vertex="1">
@@ -841,7 +841,7 @@
         <mxCell id="UDsQUH8XfIcpN_Lb0I2t-234" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" parent="UDsQUH8XfIcpN_Lb0I2t-229" source="UDsQUH8XfIcpN_Lb0I2t-233" target="UDsQUH8XfIcpN_Lb0I2t-232" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UDsQUH8XfIcpN_Lb0I2t-235" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 10px;&quot;&gt;生成模块&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=#143642;" parent="UDsQUH8XfIcpN_Lb0I2t-229" vertex="1">
+        <mxCell id="UDsQUH8XfIcpN_Lb0I2t-235" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 10px;&quot;&gt;生成阶段&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=#143642;" parent="UDsQUH8XfIcpN_Lb0I2t-229" vertex="1">
           <mxGeometry x="279" y="17" width="110.98" height="27" as="geometry" />
         </mxCell>
         <mxCell id="UDsQUH8XfIcpN_Lb0I2t-236" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;生成提示词&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=#143642;" parent="UDsQUH8XfIcpN_Lb0I2t-229" vertex="1">
@@ -1008,7 +1008,7 @@
             <mxPoint x="2238" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UDsQUH8XfIcpN_Lb0I2t-286" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 10px;&quot;&gt;识别模块&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
+        <mxCell id="UDsQUH8XfIcpN_Lb0I2t-286" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 10px;&quot;&gt;识别阶段&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="2080" y="562" width="110.98" height="27" as="geometry" />
         </mxCell>
         <mxCell id="UDsQUH8XfIcpN_Lb0I2t-287" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;curved=0;" parent="1" target="UDsQUH8XfIcpN_Lb0I2t-260" edge="1">
@@ -1152,13 +1152,13 @@
         <mxCell id="H1vGg9BgWWuJPQq61x-J-8" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBoZWlnaHQ9IjY0IiB3aWR0aD0iNjQiIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgY2xhc3M9Imljb24iPjxwYXRoIGQ9Ik01MTIgOTM4LjY2NjY2N2EzMi4wMzIgMzIuMDMyIDAgMCAxLTE1LjY0OC00LjA4NTMzNGwtMzUyLTE5Ny4zMzMzMzNBMzIgMzIgMCAwIDEgMTI4IDcwOS4zMzMzMzN2LTM5NC42NjY2NjZhMzIgMzIgMCAwIDEgMTYuMzUyLTI3LjkxNDY2N2wzNTItMTk3LjMzMzMzM2EzMiAzMiAwIDAgMSAzMS4yOTYgMGwzNTIgMTk3LjMzMzMzM0EzMiAzMiAwIDAgMSA4OTYgMzE0LjY2NjY2N3YzOTQuNjY2NjY2YTMyIDMyIDAgMCAxLTE2LjM1MiAyNy45MTQ2NjdsLTM1MiAxOTcuMzMzMzMzQTMyIDMyIDAgMCAxIDUxMiA5MzguNjY2NjY3ek0xOTIgNjkwLjU4MTMzM0w1MTIgODY5Ljk3MzMzM2wzMjAtMTc5LjM5MlYzMzMuNDA4TDUxMiAxNTQuMDE2IDE5MiAzMzMuNDA4djM1Ny4xNzMzMzN6Ii8+PHBhdGggZD0iTTUxMiA2ODIuNjY2NjY3Yy05NC4xMDEzMzMgMC0xNzAuNjY2NjY3LTc2LjU2NTMzMy0xNzAuNjY2NjY3LTE3MC42NjY2NjdTNDE3Ljg5ODY2NyAzNDEuMzMzMzMzIDUxMiAzNDEuMzMzMzMzczE3MC42NjY2NjcgNzYuNTY1MzMzIDE3MC42NjY2NjcgMTcwLjY2NjY2Ny03Ni41NjUzMzMgMTcwLjY2NjY2Ny0xNzAuNjY2NjY3IDE3MC42NjY2Njd6IG0wLTI3Ny4zMzMzMzRjLTU4LjgxNiAwLTEwNi42NjY2NjcgNDcuODUwNjY3LTEwNi42NjY2NjcgMTA2LjY2NjY2N3M0Ny44NTA2NjcgMTA2LjY2NjY2NyAxMDYuNjY2NjY3IDEwNi42NjY2NjcgMTA2LjY2NjY2Ny00Ny44NTA2NjcgMTA2LjY2NjY2Ny0xMDYuNjY2NjY3UzU3MC44MTYgNDA1LjMzMzMzMyA1MTIgNDA1LjMzMzMzM3oiLz48L3N2Zz4=" parent="1" vertex="1">
           <mxGeometry x="2789" y="378.25" width="42" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="lVPyvDkXmiog65ShrG8c-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;strokeColor=light-dark(#a8201a, #ededed);" edge="1" parent="1" target="UDsQUH8XfIcpN_Lb0I2t-200">
+        <mxCell id="lVPyvDkXmiog65ShrG8c-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;strokeColor=light-dark(#a8201a, #ededed);" parent="1" target="UDsQUH8XfIcpN_Lb0I2t-200" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1777.54" y="398.5" as="sourcePoint" />
             <mxPoint x="1861.54" y="398.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lVPyvDkXmiog65ShrG8c-4" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;提取阶段获得的前端依赖、数据库文件、启动方式&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=#000000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;textShadow=0;" vertex="1" parent="1">
+        <mxCell id="lVPyvDkXmiog65ShrG8c-4" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;提取阶段获得的前端依赖、数据库文件、启动方式&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=#000000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;textShadow=0;" parent="1" vertex="1">
           <mxGeometry x="1662" y="386.75" width="125" height="30.25" as="geometry" />
         </mxCell>
       </root>
